@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# Tizen Brasil
+
+> Bem-vindo ao repositório do Website oficial do Tizen Brasil
+
+
+## Status
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/efe41680-c899-4cfd-a06b-36f3d60e4032/deploy-status)](https://app.netlify.com/sites/tizenbrasil/deploys)
+---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
