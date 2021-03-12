@@ -35,7 +35,7 @@ function App(props) {
           <a
             target="_blank"
             class="fa fa-github"
-            href="https://github.com/tizenbrasil"
+            href="https://github.com/Tizen-Brasil"
             style={{ background: "#6A0DAD", color: "white" }}
           />
 
